@@ -7,5 +7,6 @@ questo è un gioco sviluppato come supporto di game learning per le lezioni di s
 essendo solo un supporto il gioco sarà breve (tra 15/20 min massimo) quindi circa 3 livelli di massimo 5 min l'uno.
 
 
+lo stile grafico è retrò, in 16 bit
 Mockup:
 
